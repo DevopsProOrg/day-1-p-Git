@@ -37,3 +37,12 @@ git status ---> to check the status of the git changes we made
 git add . ---> to add the chnages to
 git commit -m "commit message"
 
+git branch --> shows list of branches
+git branch newbranch --> creates new branch
+git checkout ewbranch --> move to new branch
+git branch -d newbranch
+git checkout -b feature-branch  --> creates and move to new branch
+
+
+
+
